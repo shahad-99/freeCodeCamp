@@ -1,8 +1,8 @@
-Relational Database Projects
+# Relational Database Projects
 
 This repository contains my solutions for the freeCodeCamp Relational Database certification projects.
 
-📋 Projects Included
+## 📋 Projects Included
 
 This repository includes the following freeCodeCamp relational database projects:
 
@@ -12,13 +12,13 @@ This repository includes the following freeCodeCamp relational database projects
 · Periodic Table Database - A database of chemical elements and their properties
 · Number Guessing Game - An interactive number guessing game using PostgreSQL
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 · PostgreSQL - Primary database management system
 · Bash Scripting - For automation and setup scripts
 · Git - Version control
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 freeCodeCamp/
@@ -30,7 +30,7 @@ freeCodeCamp/
 └── README.md
 ```
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Prerequisites
 
@@ -48,7 +48,7 @@ Installation
 2. Navigate to the specific project directory you're interested in.
 3. Follow the individual project instructions in each directory to set up the database and run the projects.
 
-📚 About freeCodeCamp Relational Database Certification
+## 📚 About freeCodeCamp Relational Database Certification
 
 This certification focuses on:
 
@@ -58,12 +58,12 @@ This certification focuses on:
 · Bash scripting for database automation
 · Building full-stack database applications
 
-📫 Contact
+## 📫 Contact
 
-· GitHub: shahad-99
-· freeCodeCamp Profile: shahad-99
+- GitHub: [@shahad-99](https://github.com/shahad-99)
+- freeCodeCamp Profile: [@shahad-uddin](https://www.freecodecamp.org/shahad-uddin)
 
-📄 License
+## 📄 License
 
 This project is for educational purposes as part of the freeCodeCamp curriculum.
 
